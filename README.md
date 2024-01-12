@@ -7,5 +7,5 @@ Um extra seria colocar as cardinalidades entre as entidades mas não tome isso c
 
 Modelo Entidade Relacionamento(MER)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/degui1/modelagemDeDados/blob/main/Diagrama%20em%20branco.png?raw=true)
 
